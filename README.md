@@ -21,5 +21,13 @@ Achieved high overlap (Dice > 0.85) on test cases. Qualitative results show prec
 ![image](https://github.com/user-attachments/assets/7aa8fd1a-0499-4ec4-a42d-ed156455d835)
 
 
+## Author
+
+**Rocío Ávalos**  
+Biomedical Engineering student @ Universitat Politècnica de Catalunya  
+Intern @ Hospital del Mar | Research @ Center for Brain and Cognition  
+[LinkedIn](https://www.linkedin.com/in/rocioavalos) • [GitHub](https://github.com/rociavl)
+
+
 citation
 MONAI: An open-source framework for deep learning in healthcare. https://doi.org/https://doi.org/10.48550/arXiv.2211.02701
