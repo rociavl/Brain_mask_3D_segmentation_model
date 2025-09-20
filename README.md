@@ -20,6 +20,8 @@ Achieved high overlap (Dice > 0.85) on test cases. Qualitative results show prec
 
 ![image](https://github.com/user-attachments/assets/7aa8fd1a-0499-4ec4-a42d-ed156455d835)
 
+## 🚀 Live Demo
+You can try the model directly in your browser on Hugging Face Spaces: [seeg-brain-mask-segmentationn](https://huggingface.co/spaces/rocioavl/seeg-brain-mask-segmentation).
 
 ## Author
 
