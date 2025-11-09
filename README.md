@@ -20,13 +20,19 @@ Achieved high overlap (Dice > 0.85) on test cases. Qualitative results show prec
 
 ![image](https://github.com/user-attachments/assets/7aa8fd1a-0499-4ec4-a42d-ed156455d835)
 
+## 🎥 Video Demo
+Watch the brain segmentation model in action:
+
+[![Brain Segmentation Demo](https://img.youtube.com/vi/6vQeFYLTGLA/maxresdefault.jpg)](https://youtu.be/6vQeFYLTGLA)
+
 ## 🚀 Live Demo
 You can try the model directly in your browser on Hugging Face Spaces: [seeg-brain-mask-segmentationn](https://huggingface.co/spaces/rocioavl/seeg-brain-mask-segmentation).
+
 
 ## Author
 
 **Rocío Ávalos**  
-Biomedical Engineering student @ Universitat Politècnica de Catalunya  
+Biomedical Engineer @ Universitat Politècnica de Catalunya  
 Intern @ Hospital del Mar | Research @ Center for Brain and Cognition  
 [LinkedIn](https://www.linkedin.com/in/rocioavalos) • [GitHub](https://github.com/rociavl)
 
